@@ -10,4 +10,8 @@ def happy_birthday(birthday_kids)
   }
 end
 
-
+def age_appropriate_birthday(array)
+  array.each(){ |name, age| 
+    puts 
+  }
+end
