@@ -12,6 +12,6 @@ end
 
 def age_appropriate_birthday(array)
   array.each(){ |name, age| 
-    puts 
+    puts "Happy Birthday #{kids_name}! You are now #{age} years old!" if age <= 12
   }
 end
